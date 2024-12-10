@@ -1,0 +1,5 @@
+Parameter	Value	Std Dev
+Center (x0)	657.883703	0.020326
+FWHM	0.497184	0.092754
+Amplitude (A)	19545.911559	1739.262789
+Baseline (y0)	-1966.490363	1206.487093
